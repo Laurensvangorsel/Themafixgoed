@@ -15,6 +15,7 @@
         "slide_2": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Sienna-Boutique_jubileumuitverkoop.png",
             "eyebrow": "Shop our",
             "heading": "ANNIVERSARY SALE",
             "text": "<p>WHILE IT LASTS</p>",
@@ -31,6 +32,8 @@
         "a.hero-slide__button.button.button--primary {font-size: 14px; text-transform: uppercase; margin-top: 10px; padding: 8px 15px; min-height: 0;}"
       ],
       "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
         "desktop_height": 700,
         "mobile_height": 400,
         "enable_parallax": false,
@@ -55,13 +58,13 @@
         "heading_3fQAQE": {
           "type": "heading",
           "settings": {
-            "text": "5 YEARS OF LOVE"
+            "text": "8 YEARS OF LOVE"
           }
         },
         "text_zrQa44": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome!<br/>Five years ago, my life changed in two beautiful ways: I became [STORE]’s mom, and I opened the doors to this little shop. Since then, we’ve grown side by side – [STORE] into a bright, joyful girl, and the store into a cozy place filled with treasures and wonderful people like you.<br/><br/>To mark this special milestone, we’re celebrating with an extra BIG 5th Birthday Sale! 🎉<br/>I’d love for you to join us as we share the joy and raise a toast to 5 years of love, growth, and community.</p><p><strong>With love,<br/>[STORE] ❤️</strong></p>"
+            "text": "<p>Welcome!<br/>Five years ago, my life changed in two beautiful ways: I became Sienna’s mom, and I opened the doors to this little shop. Since then, we’ve grown side by side, Sienna into a bright, joyful girl, and the store into a cozy place filled with treasures and wonderful people like you.<br/><br/>To mark this special milestone, we’re celebrating with an extra BIG 5th Birthday Sale! 🎉<br/>I’d love for you to join us as we share the joy and raise a toast to 8 years of love, growth, and community.</p><p><strong>With love,<br/>Sienna Boutique❤️</strong></p>"
           }
         },
         "button_x9eLic": {
@@ -80,8 +83,12 @@
       ],
       "name": "Rich text",
       "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
         "color_scheme": "",
         "gap": 16,
+        "padding_top": 56,
+        "padding_bottom": 56,
         "text_align": "center"
       }
     },
@@ -89,6 +96,8 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
         "color_scheme": "",
         "heading": "Bags",
         "collection": "frontpage",
@@ -105,11 +114,14 @@
       "type": "background-image-text",
       "name": "Background image text",
       "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
         "subtitle": "",
         "title": "30-Day Return Guarantee",
         "text": "<p>Your satisfaction is our focus. Our 30-day return policy guarantees you maximum flexibility and the best shopping experience</p>",
         "button_label": "",
         "button_link": "",
+        "image": "shopify://shop_images/Gezellige_Boetiek_met_Vriendelijke_Service.png",
         "layout": "left",
         "height": 550,
         "content_background": "#fff",
@@ -155,6 +167,8 @@
       ],
       "name": "Collection list",
       "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
         "heading": "",
         "show_section_divider": false,
         "collections_per_row": 4,
@@ -191,15 +205,40 @@
             "title": "100% Secure Payment",
             "text": "<p>We offer a variety of secure payment options. Pay easily and enjoy a safe shopping experience.</p>"
           }
+        },
+        "point_hjKYdc": {
+          "type": "point",
+          "settings": {
+            "icon": "shipping",
+            "custom_icon": "shopify://shop_images/costumer.avif",
+            "icon_size": 30,
+            "title": "12,500+ Happy customers",
+            "text": "<p>Trusted by thousands of satisfied customers across Australia.</p>"
+          }
         }
       },
       "block_order": [
         "point_ay8AcE",
         "point_P4eJ7X",
-        "point_YxtbK7"
+        "point_YxtbK7",
+        "point_hjKYdc"
       ],
       "name": "Trust points",
       "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "show_section_divider": false
+      }
+    },
+    "trust_points_YLNti8": {
+      "type": "trust-points",
+      "name": "Trust points",
+      "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
         "color_scheme": "",
         "subheading": "",
         "heading": "",
@@ -213,6 +252,7 @@
     "featured_collection_eaj4Te",
     "background_image_text_BBpg4L",
     "collection_list_3ixp7M",
-    "trust_points_6g6Cx7"
+    "trust_points_6g6Cx7",
+    "trust_points_YLNti8"
   ]
 }
