@@ -47,6 +47,7 @@
       "settings": {
         "display_mode": "slider",
         "autoplay": true,
+        "compact": false,
         "autoplay_interval": 4,
         "scroll_speed": 25,
         "color_scheme": "scheme-3",
@@ -62,18 +63,23 @@
         ".visually-hidden {display: none;}"
       ],
       "settings": {
-        "logo_width": 160,
+        "color_scheme": "",
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
+        "logo": "shopify://shop_images/Sienna_Boutique_Shop_Banner_500_x_200_px.png",
+        "logo_width": 140,
         "menu": "main-menu",
         "enable_dropdown_hover": true,
         "show_mega_menu_images": false,
         "header_layout": "logo-center-menu-below",
         "header_style": "sticky",
+        "header_density": "normal",
         "overlay_homepage": false,
         "overlay_collection": false,
         "show_language_selector": false,
         "show_currency_selector": false,
         "show_currency_flags": false,
-        "show_account_icon": true,
+        "show_account_icon": false,
         "show_search_icon": true,
         "mobile_menu_title": "Menu",
         "customer_account_menu": "customer-account-main-menu"
