@@ -16,10 +16,10 @@
           "type": "review_summary",
           "settings": {
             "stars_text": "★★★★★",
-            "stars_color": "#e4b529",
+            "stars_color": "#00B77F",
             "stars_size": 20,
             "stars_spacing": 0,
-            "text": "4.7/5 | Based on 5000+ Reviews",
+            "text": "4.7/5 | Based on 3865+ Reviews",
             "link": "",
             "text_size": 13,
             "text_color": "#000000"
@@ -38,12 +38,15 @@
             "price_color": "#429e4b",
             "compare_price_color": "#d60000",
             "price_size": 26,
+            "price_weight": "600",
             "compare_price_size": 16,
+            "compare_price_weight": "400",
             "compare_price_position": "before",
             "show_savings_badge": true,
             "savings_badge_format": "percent",
             "savings_badge_background": "#ffffff",
-            "savings_badge_text": "#d60000"
+            "savings_badge_text": "#d60000",
+            "show_tax_note": false
           }
         },
         "low_stock_notice_qJTwj9": {
@@ -60,6 +63,7 @@
         "sales_points_Y9wtkJ": {
           "type": "sales_points",
           "settings": {
+            "font_scale": 100,
             "text_color": "#111111",
             "icon_size": 24,
             "icon_1_url": "",
@@ -85,11 +89,14 @@
         "quantity": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {}
+          "settings": {
+            "font_scale": 100
+          }
         },
         "buy": {
           "type": "buy_buttons",
           "settings": {
+            "font_scale": 100,
             "sticky_label": ""
           }
         },
@@ -146,6 +153,7 @@
         "description": {
           "type": "description",
           "settings": {
+            "font_scale": 100,
             "display_style": "open",
             "accordion_heading": "",
             "accordion_open_by_default": false
@@ -154,6 +162,7 @@
         "accordion": {
           "type": "accordion",
           "settings": {
+            "font_scale": 100,
             "heading": "FREE SHIPPING",
             "content": "<p>At [STORE]<strong>, </strong>customer satisfaction comes first. That's why we keep you constantly updated on your order and always offer <strong>free shipping. </strong>We use the reliable delivery services of <strong>UPS.</strong></p>",
             "open_by_default": false
@@ -162,6 +171,7 @@
         "accordion_GiGtrF": {
           "type": "accordion",
           "settings": {
+            "font_scale": 100,
             "heading": "MONEY-BACK GUARANTEE",
             "content": "<p>Doesn't fit? No problem! You can exchange or return it within 30 days, but please note that some exemptions apply. To understand better, read <a href=\"/policies/refund-policy\" title=\"Refund Policy\">here</a>.</p>",
             "open_by_default": false
@@ -170,6 +180,7 @@
         "accordion_Pr3fTf": {
           "type": "accordion",
           "settings": {
+            "font_scale": 100,
             "heading": "SECURE PAYMENT",
             "content": "<p>At [STORE] Boutique your peace of mind comes first. That's why we offer 100% secure payments by credit card. Buy with total confidence.</p>",
             "open_by_default": false
@@ -359,11 +370,10 @@
         "button_style": "primary",
         "text_alignment": "center",
         "image_size": "50",
+        "image_ratio": "landscape",
         "layout": "left",
         "show_section_divider": false,
-        "lazy_load_images": true,
-        "primary_image_height": 460,
-        "secondary_image_height": 280
+        "lazy_load_images": true
       }
     },
     "trust_points_kHLE7L": {

@@ -59,6 +59,7 @@
         "color_scheme": "",
         "heading_font_scale": 100,
         "body_font_scale": 105,
+        "logo": "shopify://shop_images/Sienna_Boutique_Shop_Banner_500_x_200_px_1.png",
         "logo_position": "brand",
         "eyebrow": "",
         "title": "",
@@ -74,7 +75,7 @@
         "show_language_selector": false,
         "show_currency_selector": false,
         "show_payment_icons": true,
-        "show_copyright": false,
+        "show_copyright": true,
         "copyright_text": "All rights reserved.",
         "show_powered_by": false
       }
