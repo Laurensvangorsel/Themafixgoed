@@ -16,7 +16,7 @@
           "type": "review_summary",
           "settings": {
             "stars_text": "★★★★★",
-            "stars_color": "#00B77F",
+            "stars_color": "#00b77f",
             "stars_size": 20,
             "stars_spacing": 0,
             "text": "4.7/5 | Based on 3865+ Reviews",
@@ -35,8 +35,8 @@
         "price": {
           "type": "price",
           "settings": {
-            "price_color": "#EE2D2D",
-            "compare_price_color": "#0C0C0C",
+            "price_color": "#ee2d2d",
+            "compare_price_color": "#0c0c0c",
             "price_size": 20,
             "price_weight": "600",
             "compare_price_size": 16,
@@ -45,7 +45,7 @@
             "show_savings_badge": true,
             "savings_badge_format": "percent",
             "savings_badge_background": "#ffffff",
-            "savings_badge_text": "#00B77F",
+            "savings_badge_text": "#00b77f",
             "show_tax_note": false
           }
         },
@@ -71,9 +71,9 @@
           "type": "low_stock_notice",
           "settings": {
             "text": "Low in stock, only a few left",
-            "text_size": 20,
-            "text_color": "#F90602",
-            "dot_color": "#F90602",
+            "text_size": 17,
+            "text_color": "#f90602",
+            "dot_color": "#f90602",
             "dot_size": 11,
             "pulse_size": 30
           }
@@ -130,7 +130,7 @@
             "show_mastercard": true,
             "show_visa": true,
             "show_maestro": false,
-            "show_paypal": true,
+            "show_paypal": false,
             "show_klarna": false,
             "show_shop_pay": true,
             "show_apple_pay": true,
@@ -158,7 +158,7 @@
           "settings": {
             "font_scale": 100,
             "display_style": "open",
-            "accordion_heading": "",
+            "accordion_heading": "FAQ",
             "accordion_open_by_default": false
           }
         },
@@ -167,7 +167,7 @@
           "settings": {
             "font_scale": 100,
             "heading": "FREE SHIPPING",
-            "content": "<p>At [STORE]<strong>, </strong>customer satisfaction comes first. That's why we keep you constantly updated on your order and always offer <strong>free shipping. </strong>We use the reliable delivery services of <strong>UPS.</strong></p>",
+            "content": "<p>At Sienna-Boutique<strong>,&nbsp;</strong>customer satisfaction comes first. That's why we keep you constantly updated on your order and always offer&nbsp;<strong>free shipping. </strong>We use the reliable delivery services of&nbsp;<strong>UPS.</strong></p>",
             "open_by_default": false
           }
         },
