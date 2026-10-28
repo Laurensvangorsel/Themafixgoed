@@ -63,31 +63,38 @@
     "rich_text_R6rdEy": {
       "type": "rich-text",
       "blocks": {
+        "text_eCKXVL": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>A LITTLE NOTE FROM US</strong></h1>"
+          }
+        },
         "heading_3fQAQE": {
           "type": "heading",
           "settings": {
-            "text": "A Little About Sienna Boutique"
+            "text": "A NEW CHAPTER AT SIENNA-BOUTIQUE"
           }
         },
         "text_zrQa44": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Style should feel good, at every stage of life.</strong></p><p>At Sienna Boutique, we believe getting dressed should be one of the simple pleasures in your day.</p><p>We love bringing together timeless styles, comfortable pieces and thoughtful details that help you feel confident in what you wear. From everyday favourites to something a little special, our aim is to make finding clothes you love feel easy.</p><p>We know that great style isn't about following every trend. It's about finding pieces that suit you, fit into your life and make you feel like yourself.</p><p>As we continue to grow, we're focused on offering styles we think you'll love, with a shopping experience that's simple, personal and enjoyable.</p><p>Thank you for visiting Sienna Boutique and being part of our journey. We're glad you're here.</p><p><strong>With love,<br/>The Sienna Boutique Team 🤍</strong></p><p></p>"
+            "text": "<p>Welcome to Sienna-Boutique! 🤍</p><p>We're so happy you're here.</p><p>We're beginning a new chapter, and we're excited to share it with you.</p><p>At Sienna-Boutique, we believe finding clothes you love should be simple and enjoyable. From everyday favourites to something a little special, we love bringing together timeless styles and lovely details.</p><p>As we begin this fresh chapter, we're celebrating with some special savings as a little thank you for being here.</p><p>Whether you're visiting for the first time or coming back for another look, we're so glad you've found us.</p><p><strong>With love,</strong><br/><strong>The Sienna-Boutique Team 🤍</strong></p>"
           }
         },
-        "button_x9eLic": {
+        "button_VgEVrt": {
           "type": "button",
           "settings": {
-            "label": "Shop now",
+            "label": "READ OUR STORY",
             "link": "",
             "style": "primary"
           }
         }
       },
       "block_order": [
+        "text_eCKXVL",
         "heading_3fQAQE",
         "text_zrQa44",
-        "button_x9eLic"
+        "button_VgEVrt"
       ],
       "name": "Rich text",
       "settings": {
