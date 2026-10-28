@@ -45,7 +45,7 @@
           "name": "Quick Links",
           "settings": {
             "title": "Quick Links",
-            "menu": "customer-account-main-menu"
+            "menu": "quick-links"
           }
         }
       },

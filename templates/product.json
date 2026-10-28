@@ -35,9 +35,9 @@
         "price": {
           "type": "price",
           "settings": {
-            "price_color": "#429e4b",
-            "compare_price_color": "#d60000",
-            "price_size": 26,
+            "price_color": "#EE2D2D",
+            "compare_price_color": "#0C0C0C",
+            "price_size": 20,
             "price_weight": "600",
             "compare_price_size": 16,
             "compare_price_weight": "400",
@@ -45,19 +45,8 @@
             "show_savings_badge": true,
             "savings_badge_format": "percent",
             "savings_badge_background": "#ffffff",
-            "savings_badge_text": "#d60000",
+            "savings_badge_text": "#00B77F",
             "show_tax_note": false
-          }
-        },
-        "low_stock_notice_qJTwj9": {
-          "type": "low_stock_notice",
-          "settings": {
-            "text": "Low in stock, only a few left",
-            "text_size": 17,
-            "text_color": "#c20704",
-            "dot_color": "#c20704",
-            "dot_size": 10,
-            "pulse_size": 26
           }
         },
         "sales_points_Y9wtkJ": {
@@ -66,13 +55,27 @@
             "font_scale": 100,
             "text_color": "#111111",
             "icon_size": 24,
+            "icon_1": "shopify://shop_images/Scherm_afbeelding_2026-10-26_om_22.43.28.png",
             "icon_1_url": "",
-            "text_1": "Free Shipping with UPS",
+            "text_1": "Free Shipping with Australia Post",
+            "icon_2": "shopify://shop_images/money.avif",
             "icon_2_url": "",
             "text_2": "30-Day Money-Back Guarantee",
+            "icon_3": "shopify://shop_images/world.avif",
             "icon_3_url": "",
-            "text_3": "",
+            "text_3": "Australia's Trusted Fashion Brand",
             "placement": "info"
+          }
+        },
+        "low_stock_notice_qJTwj9": {
+          "type": "low_stock_notice",
+          "settings": {
+            "text": "Low in stock, only a few left",
+            "text_size": 20,
+            "text_color": "#F90602",
+            "dot_color": "#F90602",
+            "dot_size": 11,
+            "pulse_size": 30
           }
         },
         "variants": {
@@ -191,8 +194,8 @@
         "review_summary_9JayEf",
         "title",
         "price",
-        "low_stock_notice_qJTwj9",
         "sales_points_Y9wtkJ",
+        "low_stock_notice_qJTwj9",
         "variants",
         "quantity",
         "buy",
@@ -363,8 +366,8 @@
         "body_font_scale": 100,
         "color_scheme": "",
         "subheading": "",
-        "heading": "Celebrating 5 Years Of Comfort And Style",
-        "text": "<p>Five years ago, I started not just one, but two amazing journeys: the birth of my daughter [STORE] and the opening of my very own store. Since then, we’ve grown together – [STORE] into a bright, joyful little girl, and the shop into a place full of wonderful finds and amazing customers.</p><p>Now that [STORE] is turning 5, I want to celebrate this double milestone in a big way. 🎉 That’s why I’m having an <strong>extra BIG 5th Birthday Sale</strong> at the store! Because birthdays are all about sharing the joy.</p><p>Come by, join the celebration, and let’s raise a toast to 5 years of love, growth, and community.</p><p><strong>With Love,<br/>[STORE] </strong>❤️</p>",
+        "heading": "Celebrating 8 Years Of Comfort And Style",
+        "text": "<p>Eight years ago, I started not just one, but two amazing journeys: the birth of my daughter Sienna and the opening of my very own store. Since then, we’ve grown together – Sienna nto a bright, joyful little girl, and the shop into a place full of wonderful finds and amazing customers.</p><p>Now that Sienna is turning 8, I want to celebrate this double milestone in a big way. 🎉 That’s why I’m having an <strong>extra BIG 8th Birthday Sale</strong> at the store! Because birthdays are all about sharing the joy.</p><p>Come by, join the celebration, and let’s raise a toast to 5 years of love, growth, and community.</p><p><strong>With Love,<br/>Sienna-Boutique </strong>❤️</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
