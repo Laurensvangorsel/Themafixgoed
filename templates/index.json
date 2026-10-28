@@ -15,10 +15,10 @@
         "slide_2": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Sienna-Boutique_jubileumuitverkoop.png",
+            "image": "shopify://shop_images/Webshop_goed.png",
             "eyebrow": "Shop our",
-            "heading": "ANNIVERSARY SALE",
-            "text": "<p>WHILE IT LASTS</p>",
+            "heading": "FLASH SALE",
+            "text": "<p>BUY MORE, SAVE MORE</p><p></p>",
             "button_label": "Shop now",
             "button_link": "shopify://collections",
             "button_style": "primary"
@@ -66,13 +66,13 @@
         "heading_3fQAQE": {
           "type": "heading",
           "settings": {
-            "text": "8 YEARS OF LOVE"
+            "text": "A Little About Sienna Boutique"
           }
         },
         "text_zrQa44": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome!<br/>Eight years ago, my life changed in two beautiful ways: I became Sienna’s mom, and I opened the doors to this little shop. Since then, we’ve grown side by side, Sienna into a bright, joyful girl, and the store into a cozy place filled with treasures and wonderful people like you.<br/><br/>To mark this special milestone, we’re celebrating with an extra BIG 8th Birthday Sale! 🎉<br/>I’d love for you to join us as we share the joy and raise a toast to 8 years of love, growth, and community.</p><p><strong>With love,<br/>Sienna Boutique❤️</strong></p>"
+            "text": "<h1></h1><p><strong>Style should feel good, at every stage of life.</strong></p><p>At Sienna Boutique, we believe getting dressed should be one of the simple pleasures in your day.</p><p>We love bringing together timeless styles, comfortable pieces and thoughtful details that help you feel confident in what you wear. From everyday favourites to something a little special, our aim is to make finding clothes you love feel easy.</p><p>We know that great style isn't about following every trend. It's about finding pieces that suit you, fit into your life and make you feel like yourself.</p><p>As we continue to grow, we're focused on offering styles we think you'll love, with a shopping experience that's simple, personal and enjoyable.</p><p>Thank you for visiting Sienna Boutique and being part of our journey. We're glad you're here.</p><p><strong>With love,<br/>The Sienna Boutique Team 🤍</strong></p><p></p>"
           }
         },
         "button_x9eLic": {
@@ -129,7 +129,7 @@
         "text": "<p>Your satisfaction is our focus. Our 30-day return policy guarantees you maximum flexibility and the best shopping experience</p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify://shop_images/Gezellige_Boetiek_met_Vriendelijke_Service.png",
+        "image": "shopify://shop_images/Shop_binnenkant_goed.png",
         "layout": "left",
         "height": 550,
         "content_background": "#fff",
