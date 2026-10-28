@@ -17,10 +17,10 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "heading": "Join for first access",
-            "text": "<p>Join now and get a chance to win up to <strong>$100 AUD</strong>, plus special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+            "heading": "STAY IN THE LOOP",
+            "text": "<p>Be the first to hear about new arrivals, special offers and little updates from Sienna-Boutique.</p><p>We'd love to keep in touch!</p>",
             "placeholder": "Enter you email",
-            "button_label": "Subscribe",
+            "button_label": "SIGN ME UP",
             "arrow_inside": false,
             "note": "",
             "open_by_default": false
