@@ -58,7 +58,7 @@
             "icon_1": "shopify://shop_images/Scherm_afbeelding_2026-10-26_om_22.43.28.png",
             "icon_1_url": "",
             "text_1": "Free Shipping with Australia Post",
-            "icon_2": "shopify://shop_images/money.avif",
+            "icon_2": "shopify://shop_images/money_back.png",
             "icon_2_url": "",
             "text_2": "30-Day Money-Back Guarantee",
             "icon_3": "shopify://shop_images/world.avif",
@@ -72,10 +72,10 @@
           "settings": {
             "text": "Low in stock, only a few left",
             "text_size": 17,
-            "text_color": "#f90602",
-            "dot_color": "#f90602",
+            "text_color": "#F9AF02",
+            "dot_color": "#F9AF02",
             "dot_size": 11,
-            "pulse_size": 30
+            "pulse_size": 16
           }
         },
         "variants": {
@@ -146,7 +146,7 @@
           "type": "sale_announcement_2",
           "settings": {
             "prefix": "UPDATE:",
-            "body": "Due to high demand during our Anniversary Sale, only a few units are left in stock!",
+            "body": "Due to high demand during our Flash Sale, only a few units are left in stock!",
             "background": "#feecea",
             "text_color": "#b60000",
             "border_radius": 10,
@@ -339,7 +339,7 @@
       ],
       "name": "Testimonials Custom",
       "settings": {
-        "heading": "<h2>See What Customers Are Saying About Their Birthday Sale Deals</h2>",
+        "heading": "<h2>See What Customers Are Saying</h2>",
         "heading_size": 30,
         "sub_heading": "",
         "slider_view": 5,
@@ -371,12 +371,34 @@
       "settings": {
         "heading_font_scale": 100,
         "body_font_scale": 100,
-        "color_scheme": "",
-        "image": "shopify://shop_images/Sienna-Boutique_jubileumuitverkoop_6a19ef27-390b-4061-9ed7-2216f00df52b.png",
-        "image_2": "shopify://shop_images/Gezellige_Boetiek_met_Vriendelijke_Service.png",
+        "color_scheme": "scheme-1",
+        "image": "shopify://shop_images/Webshop_goed.png",
         "subheading": "",
-        "heading": "Celebrating 8 Years Of Comfort And Style",
-        "text": "<p>Eight years ago, I started not just one, but two amazing journeys: the birth of my daughter Sienna and the opening of my very own store. Since then, we’ve grown together , Sienna into a bright, joyful little girl, and the shop into a place full of wonderful finds and amazing customers.</p><p>Now that Sienna is turning 8, I want to celebrate this double milestone in a big way. 🎉 That’s why I’m having an <strong>extra BIG 8th Birthday Sale</strong> at the store! Because birthdays are all about sharing the joy.</p><p>Come by, join the celebration, and let’s raise a toast to 8 years of love, growth, and community.</p><p><strong>With Love,<br/>Sienna-Boutique </strong>❤️</p>",
+        "heading": "30-DAY MONEY-BACK GUARANTEE",
+        "text": "<p>We stand by the quality of our clothing and are confident you’ll love your purchase.</p><p>That’s why we offer a <strong>30-day, hassle-free money-back guarantee</strong>.</p><p>If you’re not completely satisfied with your order, simply return it within <strong>30 days</strong> for a <strong>full refund, no questions asked</strong>.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "image_size": "50",
+        "image_ratio": "landscape",
+        "layout": "left",
+        "show_section_divider": false,
+        "lazy_load_images": true
+      }
+    },
+    "image_with_text_WHhpNh": {
+      "type": "image-with-text",
+      "custom_css": [],
+      "name": "Image with text",
+      "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
+        "color_scheme": "scheme-1",
+        "image": "shopify://shop_images/Shop_binnenkant_goed.png",
+        "subheading": "",
+        "heading": "ABOUT US",
+        "text": "<p><strong>Style should feel good, at every stage of life.</strong></p><p>At Sienna Boutique, we bring together timeless styles and everyday favourites to make finding clothes you love simple and enjoyable.</p><p>Thank you for being here and being part of our journey. We're so glad you're here.</p><p><strong>With love,</strong><br/><strong>The Sienna Boutique Team 🤍</strong></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -440,6 +462,7 @@
     "featured_collection_j9Vw3e",
     "testimonials_slider_temp_VetadU",
     "image_with_text_tNGdnV",
+    "image_with_text_WHhpNh",
     "trust_points_kHLE7L"
   ]
 }
