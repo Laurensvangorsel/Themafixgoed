@@ -12,13 +12,17 @@
     "contact_form": {
       "type": "contact-form",
       "settings": {
+        "heading_font_scale": 100,
+        "body_font_scale": 100,
         "subheading": "Get in touch",
         "heading": "Contact us",
         "intro_text": "<p>Have a question or need help? We’d love to hear from you. Fill out the form and we’ll get back to you as soon as possible.</p>",
         "layout": "two-column",
         "info_heading": "We’re here to help",
         "info_text": "<p>Reach out through the form or use the details below — we typically respond within one business day.</p>",
-        "hours": "Mon – Fri, 9am – 5pm",
+        "email": "",
+        "phone": "",
+        "hours": "Mon – Friday: 9am – 5pm",
         "show_phone_field": false,
         "textarea_rows": 6,
         "button_label": "Send message",

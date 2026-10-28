@@ -153,15 +153,6 @@
             "text_size": 16
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "font_scale": 100,
-            "display_style": "open",
-            "accordion_heading": "FAQ",
-            "accordion_open_by_default": false
-          }
-        },
         "accordion": {
           "type": "accordion",
           "settings": {
@@ -185,7 +176,7 @@
           "settings": {
             "font_scale": 100,
             "heading": "SECURE PAYMENT",
-            "content": "<p>At [STORE] Boutique your peace of mind comes first. That's why we offer 100% secure payments by credit card. Buy with total confidence.</p>",
+            "content": "<p>At Sienna-Boutique your peace of mind comes first. That's why we offer 100% secure payments by credit card. Buy with total confidence.</p>",
             "open_by_default": false
           }
         }
@@ -202,7 +193,6 @@
         "shipping_estimate_fxC6J7",
         "payment_methods_qyVNYa",
         "sale_announcement_2_jGFdHW",
-        "description",
         "accordion",
         "accordion_GiGtrF",
         "accordion_Pr3fTf"
@@ -247,77 +237,84 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Persoon_7.jpg",
             "video_url": "",
             "controls": false,
-            "stars_count": 5,
-            "text": "<p>Fast shipping, sweaters keep you warm and are good quality.</p>",
-            "author": "<p>— <em>Karen S., Chicago, IL</em></p>"
+            "stars_count": 4.5,
+            "text": "<p>“Really happy with my purchase. The fabric feels lovely, and the fit is just right. I’ll definitely be browsing again.”</p>",
+            "author": "<p>- Susan M. | Sydney, NSW</p>"
           }
         },
         "slide_qAYFCA": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Persoon_6.jpg",
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Great quality and fast delivery. The Birthday Sale made it even better!</p>",
-            "author": "<p>— <em>Linda M., Dallas, TX</em></p>"
+            "text": "<p>“Beautiful pieces that are easy to dress up or wear casually. Exactly the kind of clothing I was looking for.”</p>",
+            "author": "<p>- Karen T. | Melbourne, VIC</p>"
           }
         },
         "slide_QrMyYQ": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Persoon_5.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
-            "stars_count": 5,
-            "text": "<p>Great customer service! Wanted to change the color of my sweater and it was no problem!</p>",
-            "author": "<p>— <em>Donna W., New York, NY</em></p>"
+            "stars_count": 4.5,
+            "text": "<p>“I wanted something stylish but comfortable, and this was a great choice. The design is flattering and easy to wear.”</p>",
+            "author": "<p>- Julie R. | Brisbane, QLD</p>"
           }
         },
         "slide_8jA6dg": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Persoon_4.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
-            "stars_count": 5,
-            "text": "<p>Light sandals, no blisters, and they look great with casual outfits. Exactly what I needed.</p>",
-            "author": "<p>— <em>Mary P., Seattle, WA</em></p>"
+            "stars_count": 4.5,
+            "text": "<p>“Comfortable, versatile and easy to match with things I already own. I can see myself wearing this often.”</p>",
+            "author": "<p>- Michelle B. | Perth, WA</p>"
           }
         },
         "slide_GCYYCM": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Persoon_3.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
-            "stars_count": 5,
-            "text": "<p>Great service! Easy exchange after the heels turned out too small.</p>",
-            "author": "<p>— <em>Patricia R., Phoenix, AZ</em></p>"
+            "stars_count": 4.5,
+            "text": "<p>“I love the timeless look. It feels feminine without being over the top, and it’s easy to wear on different occasions.”</p>",
+            "author": "<p>- Deborah L. | Adelaide, SA</p>"
           }
         },
         "slide_aQRy8t": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Persoon_2.jpg",
             "video_url": "",
             "controls": false,
-            "stars_count": 5,
-            "text": "<p>Bought some heels, comfortable and elegant. I wore them all day at a wedding without any pain.</p>",
-            "author": "<p>— <em>Deborah L., Miami, FL</em></p>"
+            "stars_count": 4,
+            "text": "<p>“The sale made it even better. I found a lovely piece that looks great and works well with my everyday outfits.”</p>",
+            "author": "<p>Natalie C. | Gold Coast, QLD</p>"
           }
         },
         "slide_kEzqLF": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/Persoon_1.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>My order arrived quickly and well packaged. The shoes are comfortable and stylish—exactly what I was looking for.</p>",
-            "author": "<p>— <em>Susan T., Boston, MA</em></p>"
+            "text": "<p>“Classic, comfortable and easy to coordinate. I appreciate clothing that feels stylish without sacrificing comfort.”</p>",
+            "author": "<p>- Newcastle, NSW</p>"
           }
         }
       },
@@ -365,9 +362,11 @@
         "heading_font_scale": 100,
         "body_font_scale": 100,
         "color_scheme": "",
+        "image": "shopify://shop_images/Sienna-Boutique_jubileumuitverkoop_6a19ef27-390b-4061-9ed7-2216f00df52b.png",
+        "image_2": "shopify://shop_images/Gezellige_Boetiek_met_Vriendelijke_Service.png",
         "subheading": "",
         "heading": "Celebrating 8 Years Of Comfort And Style",
-        "text": "<p>Eight years ago, I started not just one, but two amazing journeys: the birth of my daughter Sienna and the opening of my very own store. Since then, we’ve grown together – Sienna nto a bright, joyful little girl, and the shop into a place full of wonderful finds and amazing customers.</p><p>Now that Sienna is turning 8, I want to celebrate this double milestone in a big way. 🎉 That’s why I’m having an <strong>extra BIG 8th Birthday Sale</strong> at the store! Because birthdays are all about sharing the joy.</p><p>Come by, join the celebration, and let’s raise a toast to 5 years of love, growth, and community.</p><p><strong>With Love,<br/>Sienna-Boutique </strong>❤️</p>",
+        "text": "<p>Eight years ago, I started not just one, but two amazing journeys: the birth of my daughter Sienna and the opening of my very own store. Since then, we’ve grown together , Sienna into a bright, joyful little girl, and the shop into a place full of wonderful finds and amazing customers.</p><p>Now that Sienna is turning 8, I want to celebrate this double milestone in a big way. 🎉 That’s why I’m having an <strong>extra BIG 8th Birthday Sale</strong> at the store! Because birthdays are all about sharing the joy.</p><p>Come by, join the celebration, and let’s raise a toast to 8 years of love, growth, and community.</p><p><strong>With Love,<br/>Sienna-Boutique </strong>❤️</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
