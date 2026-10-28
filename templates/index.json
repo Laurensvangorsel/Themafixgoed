@@ -85,7 +85,7 @@
           "type": "button",
           "settings": {
             "label": "READ OUR STORY",
-            "link": "shopify://pages/contact",
+            "link": "shopify://pages/our-story",
             "style": "primary"
           }
         }
