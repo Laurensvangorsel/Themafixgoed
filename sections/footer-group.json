@@ -18,8 +18,8 @@
           "type": "newsletter",
           "settings": {
             "heading": "Join for first access",
-            "text": "<p>Sign up and find out right away if you've won $100 in shopping credit!</p>",
-            "placeholder": "Email address",
+            "text": "<p>Join now and get a chance to win up to <strong>$100 AUD</strong>, plus special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+            "placeholder": "Enter you email",
             "button_label": "Subscribe",
             "arrow_inside": false,
             "note": "",
@@ -29,15 +29,15 @@
         "text_KUaMgL": {
           "type": "text",
           "settings": {
-            "title": "Hours",
-            "text": "<p><strong>Monday – Saturday:</strong> 09:00 AM – 06:00 PM<br/><br/><strong>Sunday:</strong> Closed</p>"
+            "title": "WHY SHOP WITH US?",
+            "text": "<p>✔ We have been providing the best service to our customers for over 6 years<br/><br/>✔ Free, fast shipping with UPS.<br/><br/>✔ Easy returns within 30 days.<br/><br/>✔ 100% secure payment.<br/></p>"
           }
         },
         "text_4j3NwF": {
           "type": "text",
           "settings": {
-            "title": "Customer service",
-            "text": "<p><strong>Customer Service </strong>♡<br/>If you have any questions, feel free to contact us.<br/><strong>📩info@sienna-boutique.com</strong></p>"
+            "title": "Customer Service",
+            "text": "<p><strong>Monday – Friday</strong>&nbsp;| 9:00 AM – 5:00 PM<br/><br/><strong>Weekends</strong>&nbsp;| 10:00 AM – 5:00 PM</p><p>If you have any questions or need assistance, our team is here to help.</p><p>✉️ <a href=\"mailto:info@lowellsydney.com\" title=\"mailto:info@lowellsydney.com\">info@sienna-boutique.com</a></p><p>★ ★ ★ ★ ★&nbsp;<em>(10,000+ satisfied customers)</em></p>"
           }
         },
         "menu_hawfC8": {

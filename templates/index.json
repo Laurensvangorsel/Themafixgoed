@@ -191,6 +191,7 @@
           "type": "point",
           "settings": {
             "icon": "shipping",
+            "custom_icon": "shopify://shop_images/Icon_Australian_Post.avif",
             "icon_size": 30,
             "title": "Free Shipping",
             "text": "<p>We offer free shipping for maximum customer comfort. Your satisfaction is important to us, which is why we offer smooth and free delivery.</p>"
