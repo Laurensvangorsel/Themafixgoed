@@ -252,6 +252,15 @@
         "heading": "",
         "show_section_divider": false
       }
+    },
+    "custom_liquid_fn9fzn": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "Custom liquid",
+      "settings": {
+        "full_width": false,
+        "custom_liquid": "<style>\n  .sienna-magazine {\n    width: 100%;\n    overflow: hidden;\n    background: #ffffff;\n    color: #111111;\n    padding: 26px 0;\n    box-sizing: border-box;\n  }\n\n  .sienna-magazine *,\n  .sienna-magazine *::before,\n  .sienna-magazine *::after {\n    box-sizing: border-box;\n  }\n\n  .sienna-magazine__heading {\n    margin: 0 0 26px;\n    text-align: center;\n    font-family: Arial, sans-serif;\n    font-size: 23px;\n    line-height: 1.2;\n    font-weight: 700;\n    letter-spacing: 2px;\n    color: #111111;\n  }\n\n  .sienna-magazine__viewport {\n    width: 100%;\n    overflow: hidden;\n  }\n\n  .sienna-magazine__track {\n    display: flex;\n    width: max-content;\n    will-change: transform;\n    animation: sienna-magazine-scroll 32s linear infinite;\n  }\n\n  .sienna-magazine__group {\n    display: flex;\n    flex-shrink: 0;\n    align-items: center;\n    justify-content: space-around;\n    gap: 78px;\n    padding-right: 78px;\n  }\n\n  .sienna-magazine__name {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    white-space: nowrap;\n    color: #111111;\n    line-height: 1;\n  }\n\n  /* Vogue inspired typography */\n  .sienna-magazine__vogue {\n    font-family: Didot, \"Bodoni MT\", \"Times New Roman\", serif;\n    font-size: 53px;\n    font-weight: 700;\n    letter-spacing: -3px;\n  }\n\n  /* Marie Claire inspired typography */\n  .sienna-magazine__marie {\n    font-family: Georgia, \"Times New Roman\", serif;\n    font-size: 35px;\n    font-weight: 700;\n    letter-spacing: -2px;\n  }\n\n  /* Harper's Bazaar inspired typography */\n  .sienna-magazine__bazaar {\n    font-family: Didot, \"Bodoni MT\", Georgia, serif;\n    font-size: 37px;\n    font-weight: 400;\n    letter-spacing: -1.5px;\n  }\n\n  /* ELLE inspired typography */\n  .sienna-magazine__elle {\n    font-family: Didot, \"Bodoni MT\", Georgia, serif;\n    font-size: 49px;\n    font-weight: 700;\n    letter-spacing: -3px;\n  }\n\n  @keyframes sienna-magazine-scroll {\n    from {\n      transform: translateX(0);\n    }\n    to {\n      transform: translateX(-50%);\n    }\n  }\n\n  @media (hover: hover) {\n    .sienna-magazine__viewport:hover .sienna-magazine__track {\n      animation-play-state: paused;\n    }\n  }\n\n  @media (max-width: 749px) {\n    .sienna-magazine {\n      padding: 22px 0;\n    }\n\n    .sienna-magazine__heading {\n      font-size: 18px;\n      margin-bottom: 22px;\n      letter-spacing: 1.5px;\n    }\n\n    .sienna-magazine__group {\n      gap: 44px;\n      padding-right: 44px;\n    }\n\n    .sienna-magazine__vogue {\n      font-size: 37px;\n    }\n\n    .sienna-magazine__marie {\n      font-size: 25px;\n    }\n\n    .sienna-magazine__bazaar {\n      font-size: 27px;\n    }\n\n    .sienna-magazine__elle {\n      font-size: 35px;\n    }\n  }\n\n  @media (prefers-reduced-motion: reduce) {\n    .sienna-magazine__track {\n      animation: none;\n    }\n  }\n</style>\n\n<section class=\"sienna-magazine\">\n  <h2 class=\"sienna-magazine__heading\">\n    AS SEEN IN\n  </h2>\n\n  <div class=\"sienna-magazine__viewport\">\n    <div class=\"sienna-magazine__track\">\n\n      {% for i in (1..2) %}\n        <div class=\"sienna-magazine__group\"\n             {% if i == 2 %}aria-hidden=\"true\"{% endif %}>\n\n          <span class=\"sienna-magazine__name sienna-magazine__vogue\">\n            VOGUE\n          </span>\n\n          <span class=\"sienna-magazine__name sienna-magazine__marie\">\n            marie claire\n          </span>\n\n          <span class=\"sienna-magazine__name sienna-magazine__bazaar\">\n            HARPER'S BAZAAR\n          </span>\n\n          <span class=\"sienna-magazine__name sienna-magazine__elle\">\n            ELLE\n          </span>\n\n        </div>\n      {% endfor %}\n\n    </div>\n  </div>\n</section>"
+      }
     }
   },
   "order": [
@@ -262,6 +271,7 @@
     "background_image_text_BBpg4L",
     "collection_list_3ixp7M",
     "trust_points_6g6Cx7",
-    "trust_points_YLNti8"
+    "trust_points_YLNti8",
+    "custom_liquid_fn9fzn"
   ]
 }
