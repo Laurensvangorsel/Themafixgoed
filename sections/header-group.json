@@ -17,14 +17,14 @@
         "announcement_HipNJi": {
           "type": "announcement",
           "settings": {
-            "text": "Free shipping across all of Australia",
+            "text": "A NEW CHAPTER BEGINS 🤍 SHOP OUR SPECIAL SALE",
             "link": ""
           }
         },
-        "announcement_tqxndY": {
+        "announcement_D68jEL": {
           "type": "announcement",
           "settings": {
-            "text": "Flash sale ends today!",
+            "text": "Free shipping on orders over $75",
             "link": ""
           }
         },
@@ -38,7 +38,7 @@
       },
       "block_order": [
         "announcement_HipNJi",
-        "announcement_tqxndY",
+        "announcement_D68jEL",
         "announcement_N3w8ef"
       ],
       "custom_css": [

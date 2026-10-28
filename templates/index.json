@@ -15,10 +15,10 @@
         "slide_2": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Webshop_goed.png",
-            "eyebrow": "Shop our",
-            "heading": "FLASH SALE",
-            "text": "<p>Enjoy special savings on styles you'll love. Shop your favourites before the sale ends!</p><p></p>",
+            "image": "shopify://shop_images/Sienna_boutique_anniversary_sale.png",
+            "eyebrow": "A LITTLE SOMETHING SPECIAL",
+            "heading": "NEW CHAPTER SALE",
+            "text": "<p>A fresh start at Sienna-Boutique! Celebrate with us and enjoy lovely savings on styles you'll love.</p>",
             "button_label": "Shop now",
             "button_link": "shopify://collections",
             "button_style": "primary"
@@ -129,7 +129,7 @@
         "text": "<p>If something isn't quite right, get in touch within 30 days of receiving your order. We'll be happy to help you with the next steps and make the process as simple as possible.</p><p>Your rights under Australian Consumer Law are not affected. Please see our Returns Policy for full details.</p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify://shop_images/Shop_binnenkant_goed.png",
+        "image": "shopify://shop_images/Rieten_tas_goed.png",
         "layout": "left",
         "height": 550,
         "content_background": "#fff",
