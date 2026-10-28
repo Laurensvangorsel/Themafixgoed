@@ -16,10 +16,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Sienna_boutique_anniversary_sale.png",
-            "eyebrow": "A LITTLE SOMETHING SPECIAL",
-            "heading": "NEW CHAPTER SALE",
-            "text": "<p>A fresh start at Sienna-Boutique! Celebrate with us and enjoy lovely savings on styles you'll love.</p>",
-            "button_label": "Shop now",
+            "eyebrow": "A NEW CHAPTER BEGINS",
+            "heading": "20TH ANNIVERSARY SALE",
+            "text": "<p>Celebrating 20 wonderful years and a new chapter at Sienna-Boutique. Enjoy special savings as we thank you for being part of our journey.</p>",
+            "button_label": "SHOP THE SALE",
             "button_link": "shopify://collections/new-chapter-sale",
             "button_style": "primary"
           }
@@ -78,7 +78,7 @@
         "text_zrQa44": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to Sienna-Boutique! 🤍</p><p>We're so happy you're here.</p><p>We're beginning a new chapter, and we're excited to share it with you.</p><p>At Sienna-Boutique, we believe finding clothes you love should be simple and enjoyable. From everyday favourites to something a little special, we love bringing together timeless styles and lovely details.</p><p>As we begin this fresh chapter, we're celebrating with some special savings as a little thank you for being here.</p><p>Whether you're visiting for the first time or coming back for another look, we're so glad you've found us.</p><p><strong>With love,</strong><br/><strong>The Sienna-Boutique Team 🤍</strong></p>"
+            "text": "<p>Hi, I'm Sienna! 🤍</p><p>This year is a very special one for our family. My mum is turning 60, our little boutique is celebrating 20 wonderful years, and I'm taking over the store she has put so much love into.</p><p>Growing up around the boutique, I've seen how much care she's put into everything she does. Now it's my turn to continue what she started, while bringing a few fresh ideas of my own.</p><p>To celebrate our 20th anniversary, we're sharing some lovely savings as a little thank you for all your support.</p><p>Whether you've been with us for years or you're visiting for the first time, I'm so glad you're here.</p><p><strong>With love,</strong><br/><strong>Sienna 🤍</strong></p>"
           }
         },
         "button_VgEVrt": {
@@ -114,7 +114,7 @@
         "heading_font_scale": 100,
         "body_font_scale": 100,
         "color_scheme": "",
-        "heading": "NEW CHAPTER FAVOURITES",
+        "heading": "20th Anniversary Sale",
         "collection": "frontpage",
         "products_per_row": 4,
         "rows": 3,
