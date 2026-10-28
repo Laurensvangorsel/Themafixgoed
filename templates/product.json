@@ -119,7 +119,7 @@
         "payment_methods_qyVNYa": {
           "type": "payment_methods",
           "settings": {
-            "heading": "Free UPS Shipping & 30-Day Money Back Guarantee",
+            "heading": "Free shipping with Australia Post & 30-Day Money Back Guarantee",
             "icon_width": 38,
             "icon_height": 24,
             "gap": 8,
@@ -151,6 +151,15 @@
             "text_color": "#b60000",
             "border_radius": 10,
             "text_size": 16
+          }
+        },
+        "description_wgNXwV": {
+          "type": "description",
+          "settings": {
+            "font_scale": 100,
+            "display_style": "open",
+            "accordion_heading": "Description",
+            "accordion_open_by_default": false
           }
         },
         "accordion": {
@@ -193,6 +202,7 @@
         "shipping_estimate_fxC6J7",
         "payment_methods_qyVNYa",
         "sale_announcement_2_jGFdHW",
+        "description_wgNXwV",
         "accordion",
         "accordion_GiGtrF",
         "accordion_Pr3fTf"
