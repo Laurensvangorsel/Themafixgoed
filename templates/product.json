@@ -228,7 +228,7 @@
       "settings": {
         "heading_font_scale": 100,
         "body_font_scale": 100,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "heading": "COMBINE AND GET 10% OFF!",
         "collection": "all-products-dnd",
         "products_per_row": 3,
@@ -237,7 +237,7 @@
         "show_view_all": true,
         "view_all_position": "header",
         "view_all_style": "link",
-        "show_section_divider": false
+        "show_section_divider": true
       }
     },
     "testimonials_slider_temp_VetadU": {
@@ -315,6 +315,17 @@
             "author": "<p>Natalie C. | Gold Coast, QLD</p>"
           }
         },
+        "slide_8QbAMX": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
+          }
+        },
         "slide_kEzqLF": {
           "type": "slide",
           "settings": {
@@ -335,6 +346,7 @@
         "slide_8jA6dg",
         "slide_GCYYCM",
         "slide_aQRy8t",
+        "slide_8QbAMX",
         "slide_kEzqLF"
       ],
       "name": "Testimonials Custom",
