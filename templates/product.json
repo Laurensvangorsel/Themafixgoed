@@ -72,8 +72,8 @@
           "settings": {
             "text": "Low in stock, only a few left",
             "text_size": 17,
-            "text_color": "#F9AF02",
-            "dot_color": "#F9AF02",
+            "text_color": "#f9af02",
+            "dot_color": "#f9af02",
             "dot_size": 11,
             "pulse_size": 16
           }
@@ -352,7 +352,7 @@
         "card_radius": 20,
         "card_shadow": false,
         "media_ratio": "square",
-        "stars_color": "#323232",
+        "stars_color": "#00B77F",
         "text_size": 16,
         "text_color": "#323232",
         "author_color": "#323232",
@@ -360,7 +360,7 @@
         "arrow_show_mobile": false,
         "dots_show_desktop": false,
         "dots_show_mobile": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "full_width": true
       }
     },
