@@ -315,7 +315,7 @@
   "shopify": {
     "checkout": {
       "alternative_payment_method_banner": {
-        "or": "★★★★★ "
+        "or": "CHECKOUT"
       }
     }
   }
