@@ -103,19 +103,6 @@
             "sticky_label": ""
           }
         },
-        "shipping_estimate_fxC6J7": {
-          "type": "shipping_estimate",
-          "settings": {
-            "language": "en",
-            "show_free_shipping": true,
-            "flag": "auto",
-            "background": "#f6f6f6",
-            "text_color": "#222222",
-            "dot_color": "#222222",
-            "font_size": 15,
-            "border_radius": 6
-          }
-        },
         "payment_methods_qyVNYa": {
           "type": "payment_methods",
           "settings": {
@@ -199,7 +186,6 @@
         "variants",
         "quantity",
         "buy",
-        "shipping_estimate_fxC6J7",
         "payment_methods_qyVNYa",
         "sale_announcement_2_jGFdHW",
         "description_wgNXwV",
@@ -264,7 +250,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p>“Beautiful pieces that are easy to dress up or wear casually. Exactly the kind of clothing I was looking for.”</p>",
-            "author": "<p>- Karen T. | Melbourne, VIC</p>"
+            "author": "<p>- Karen T.&nbsp;<br/>Melbourne, VIC</p>"
           }
         },
         "slide_QrMyYQ": {
@@ -364,7 +350,7 @@
         "card_radius": 20,
         "card_shadow": false,
         "media_ratio": "square",
-        "stars_color": "#00B77F",
+        "stars_color": "#00b77f",
         "text_size": 16,
         "text_color": "#323232",
         "author_color": "#323232",
