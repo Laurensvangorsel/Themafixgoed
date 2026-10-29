@@ -56,7 +56,7 @@
       "type": "custom-liquid",
       "name": "Custom liquid",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "custom_liquid": "<style>\n  .sienna-marquee {\n    width: 100%;\n    overflow: hidden;\n    background: #FFFFFF;\n    padding: 32px 0;\n  }\n\n  .sienna-marquee__track {\n    display: flex;\n    width: max-content;\n    animation: sienna-scroll 32s linear infinite;\n  }\n\n  .sienna-marquee__group {\n    display: flex;\n    align-items: center;\n    flex-shrink: 0;\n    gap: 42px;\n    padding-right: 42px;\n  }\n\n  .sienna-marquee__item {\n    font-size: 19px;\n    font-weight: 700;\n    color: #111111;\n    white-space: nowrap;\n    text-transform: uppercase;\n    letter-spacing: 0.3px;\n  }\n\n  .sienna-marquee__star {\n    font-size: 40px;\n    font-weight: 400;\n    line-height: 1;\n    color: #111111;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  @keyframes sienna-scroll {\n    from {\n      transform: translateX(0);\n    }\n    to {\n      transform: translateX(-50%);\n    }\n  }\n\n  @media (max-width: 768px) {\n    .sienna-marquee {\n      padding: 22px 0;\n    }\n\n    .sienna-marquee__item {\n      font-size: 15px;\n    }\n\n    .sienna-marquee__star {\n      font-size: 32px;\n    }\n\n    .sienna-marquee__group {\n      gap: 25px;\n      padding-right: 25px;\n    }\n  }\n\n  @media (prefers-reduced-motion: reduce) {\n    .sienna-marquee__track {\n      animation: none;\n    }\n  }\n</style>\n\n<div class=\"sienna-marquee\">\n  <div class=\"sienna-marquee__track\">\n\n    {% for repeat in (1..2) %}\n      <div class=\"sienna-marquee__group\">\n\n        <span class=\"sienna-marquee__item\">\n          20TH ANNIVERSARY SALE\n        </span>\n\n        <span class=\"sienna-marquee__star\">✳</span>\n\n        <span class=\"sienna-marquee__item\">\n          FREE SHIPPING AUSTRALIA-WIDE\n        </span>\n\n        <span class=\"sienna-marquee__star\">✳</span>\n\n        <span class=\"sienna-marquee__item\">\n          LOVELY STYLES FOR EVERYDAY LIFE\n        </span>\n\n        <span class=\"sienna-marquee__star\">✳</span>\n\n        <span class=\"sienna-marquee__item\">\n          SPECIAL SAVINGS\n        </span>\n\n        <span class=\"sienna-marquee__star\">✳</span>\n\n      </div>\n    {% endfor %}\n\n  </div>\n</div>"
       }
     },
@@ -66,7 +66,7 @@
         "text_eCKXVL": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>A LITTLE NOTE FROM US</strong></h1>"
+            "text": "<h1>A Little Note From Sienna</h1>"
           }
         },
         "heading_3fQAQE": {
@@ -78,7 +78,7 @@
         "text_zrQa44": {
           "type": "text",
           "settings": {
-            "text": "<p>Hi, I'm Sienna! 🤍</p><p>This year is a very special one for our family. My mum is turning 60, our little boutique is celebrating 20 wonderful years, and I'm taking over the store she has put so much love into.</p><p>Growing up around the boutique, I've seen how much care she's put into everything she does. Now it's my turn to continue what she started, while bringing a few fresh ideas of my own.</p><p>To celebrate our 20th anniversary, we're sharing some lovely savings as a little thank you for all your support.</p><p>Whether you've been with us for years or you're visiting for the first time, I'm so glad you're here.</p><p><strong>With love,</strong><br/><strong>Sienna 🤍</strong></p>"
+            "text": "<p>Hi, I'm Sienna! 🤍</p><p>This year is a special one for our family. My mum is turning 60, Sienna-Boutique is celebrating 20 wonderful years, and I'm so happy to be taking over the store she's put so much love into.</p><p>I've grown up seeing how much this boutique means to her, and I'm excited to carry on what she started, with a few fresh ideas of my own.</p><p>To celebrate our 20th anniversary, we're offering some lovely savings as a little thank you for all your support.</p><p>Whether you're new here or have been with us for years, I'm so glad you're here!</p><p><strong>With love,</strong><br/><strong>Sienna 🤍</strong></p>"
           }
         },
         "button_VgEVrt": {
