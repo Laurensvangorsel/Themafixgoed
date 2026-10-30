@@ -14,6 +14,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_hyUBbK": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": ""
+          }
+        },
         "text_4j3NwF": {
           "type": "text",
           "settings": {
@@ -31,6 +38,7 @@
         }
       },
       "block_order": [
+        "text_hyUBbK",
         "text_4j3NwF",
         "menu_hawfC8"
       ],
@@ -39,7 +47,7 @@
         "heading_font_scale": 105,
         "body_font_scale": 105,
         "logo": "shopify://shop_images/Sienna_Boutique_Shop_Banner_500_x_200_px_5852d50f-a6af-4ebf-8d2d-4cacbc0b6ed2.png",
-        "logo_position": "top",
+        "logo_position": "brand",
         "eyebrow": "",
         "title": "",
         "text": "",
