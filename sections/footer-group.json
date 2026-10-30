@@ -14,30 +14,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "heading": "STAY IN THE LOOP",
-            "text": "<p>Be the first to hear about new arrivals, special offers and little updates from Sienna-Boutique.</p><p>We'd love to keep in touch!</p>",
-            "placeholder": "Enter you email",
-            "button_label": "SIGN ME UP",
-            "arrow_inside": false,
-            "note": "",
-            "open_by_default": false
-          }
-        },
-        "text_KUaMgL": {
-          "type": "text",
-          "settings": {
-            "title": "WHY SHOP WITH US?",
-            "text": "<p>✓ Lovely styles for everyday life.</p><p>✓ Free shipping across Australia.</p><p>✓ 30-day returns.</p><p>✓ Secure checkout.</p><p>✓ Friendly customer service.</p>"
-          }
-        },
         "text_4j3NwF": {
           "type": "text",
           "settings": {
             "title": "Customer Service",
-            "text": "<p>Need a hand? We're happy to help.</p><p>Have a question about your order, shipping or a return? Just send us an email and we'll get back to you as soon as we can.</p><p><strong>Email:</strong> <a href=\"mailto:info@sienna-boutique.com\">info@sienna-boutique.com</a></p>"
+            "text": "<p>Do you have any questions about our services or products? Please don't hesitate to contact us via the contact page!</p><p><strong>Our customer service is available 24/7 to assist you anytime, day or night!</strong></p><p>📩 Email:&nbsp;info@sienna-boutique.com</p><p>📍Melbourne, Australia</p>"
           }
         },
         "menu_hawfC8": {
@@ -50,13 +31,11 @@
         }
       },
       "block_order": [
-        "newsletter",
-        "text_KUaMgL",
         "text_4j3NwF",
         "menu_hawfC8"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "heading_font_scale": 100,
         "body_font_scale": 105,
         "logo": "shopify://shop_images/Sienna_Boutique_Shop_Banner_500_x_200_px_1.png",
